@@ -1,0 +1,5 @@
+t=eval(input("Enter the tuple"))
+l=list(t)
+l.sort()
+t1=tuple(l)
+print(t1)
